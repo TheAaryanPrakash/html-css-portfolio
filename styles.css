@@ -1,0 +1,54 @@
+.logo{
+    border-radius: 50%;
+    height: 40px;
+    margin: 10px;
+}
+
+.home{
+    background-color: #470047;
+    color: antiquewhite;
+}
+
+.ap{
+    color: beige;
+}
+
+body{
+    background-color: #C8A2C8;
+}
+
+.profile{
+    border-radius: 15%;
+}
+
+#education{
+    background-color:#C8A2C8;
+}
+
+.school-pics{
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+    background-color: #470047;
+}
+
+.bi{
+    fill:whitesmoke;
+}
+
+h4{
+    font-weight: 400;
+    font-size:medium;
+    color: black;
+}
+
+.h-p{
+    text-align: center;
+}
